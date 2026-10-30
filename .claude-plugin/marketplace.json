@@ -1,0 +1,13 @@
+{
+  "name": "docue-plugins",
+  "description": "Docue document and signing workflows for Claude.",
+  "owner": {
+    "name": "Docue"
+  },
+  "plugins": [
+    {
+      "name": "docue",
+      "source": "./"
+    }
+  ]
+}

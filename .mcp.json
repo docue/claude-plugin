@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "docue": {
+      "type": "http",
+      "url": "https://mcp.docue.com"
+    }
+  }
+}
